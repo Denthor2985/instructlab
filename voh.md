@@ -1,0 +1,58 @@
+Diablo IV: Vessel of Hatred is a 2024 major expansion pack for the action role-playing dungeon crawling game Diablo IV. It was released on October 7, 2024, for the PlayStation 4 and PlayStation 5, Xbox One and Xbox Series X and S, and Windows.[1]
+
+Set in the newly introduced region of Nahantu, a jungle overrun by corruption and dark forces, Vessel of Hatred explores new narratives and challenges within the Diablo universe. The expansion introduces the Spiritborn class, a versatile new character with abilities derived from ancient jungle warriors. Players also experience a new endgame dungeon designed for cooperative play, alongside an array of new items, abilities, and enhancements to the Paragon system. The expansion aims to deepen the lore of Sanctuary, continuing the story of Diablo IV and expanding its world.[2]
+
+Diablo IV: Vessel of Hatred has received generally positive reviews from critics. The expansion has received positive reviews from critics for its gameplay and enhanced quality of life. Particularly the updates to the leveling and loot systems, as well as the new character class. Critics have praised the story's lore, characters, and plot developments as engaging despite their scarcity.
+
+Gameplay
+Vessel of Hatred expands the core gameplay of Diablo IV. The new region, Nahantu, is a jungle environment with new enemies, including monstrous insects and corrupted humanoids, each with distinct attack patterns. The environment includes dense foliage and hazardous terrain.[3][4][5]
+
+The expansion includes a new endgame dungeon designed for cooperative play. This multi-phase challenge requires players to coordinate their abilities and strategies to overcome waves of enemies and bosses.[6] Successful completion of the dungeon rewards players with loot and titles. Itemization includes new legendary items and aspects that provide new bonuses and effects for specialized builds. Furthermore, the Paragon system has been enhanced with additional boards and glyphs, offering further opportunities for character customization.[7]
+
+Spiritborn class
+
+The Spiritborn class
+The Spiritborn is a new class introduced in the expansion. This class draws on the powers of ancient jungle warriors from the Nahantu clan and excels in both ranged and melee combat. Spiritborn abilities are designed to focus on crowd control, mobility, and sustained damage output.[8]
+
+The Spiritborn class features the ability to summon various Spirit Guardians, each providing distinct abilities.[9] For instance, the Jaguar Spirit, known as Rezoka, grants abilities such as Rake, Ravager, and Rushing Claw, which inflict substantial fire damage. The Gorilla Spirit, Wumba, offers immense strength and resilience, enhancing both damage output and survivability.[10] The Eagle Spirit, Kwatli, improves agility and precision, allowing for swift and accurate strikes, while the Centipede Spirit, Balazan, provides speed and poison damage.[11]
+
+A notable aspect of the Spiritborn class is its access to the Spirit Realm, a ghostly reflection of Sanctuary created by the prophet Akarat and his acolyte Ysevete. In the Spirit Realm, players can embody Spirit Guardians, gaining their full strength and unique abilities to confront various threats.[12] The class also introduces new mechanics such as the Incarnate Skill, which enables players to embody the traits of their chosen Spirit Guardian, offering both passive bonuses and powerful active abilities. Additionally, the Spirit Hall is a special location where players can commune with their Spirit Guardians to enhance their abilities. The Spiritborn class features a new resource system that allows for strategic play and customization.[3]
+
+Plot
+Main article: Diablo IV § Plot
+
+Nahantu, the new region in Diablo IV
+After the deaths of Lilith and Inarius, Neyrelle disappears into the jungles of Nahantu with Mephisto's soulstone. A fanatic named Urivar, who survived Inarius' failed assault in Hell, now leads the Cathedral of Light and seeks to hunt her down. The Wanderer begins to follow her trail and is nearly killed by Urivar, but is rescued by a Spiritborn elder named Eru near the ancient city of Kurast. The trail leads to the ruined Zakarum temple-city of Travincal, where Mephisto was imprisoned until he was banished back to Hell (as played out in Diablo II). They find Neyrelle in Mephisto's former prison, the Durance of Hate, where she struggles to contain the stone. The spirit of Akarat, founder of the Zakarum faith, directs the Wanderer to find another spirit, Ah Bulan, to aid Neyrelle.
+
+Eru and another elder, Maka, attempt to commune with Ah Bulan in the Spirit Realm. The Wanderer is then summoned by Mephisto, who claims that Neyrelle can be saved if she frees him from the soulstone. The Wanderer enters the Spirit Realm and finds Ah Bulan has been corrupted, and is forced to kill him. Cutting out Ah Bulan's uncorrupted heart, the Wanderer returns to Neyrelle, who consumes the heart to regain control. Akarat directs Neyrelle to find his lost tomb, where they can contain Mephisto for good. Eru is captured by Urivar and his "Burned Knights"; the Wanderer attacks the camp to free him, and kills Urivar. Neyrelle briefly loses control of the stone and accidentally kills Maka, leading Eru to abandon the Wanderer for a time, though he returns when they find Akarat's tomb. The Wanderer, Neyrelle, and Eru raise the tomb from the bottom of a lake and cross into the Spirit Realm to Akarat's true resting place, the Vault of Light, where Neyrelle severs her connection to the stone. However, Eru takes both the stone and Akarat's body, revealing he has made a deal with Mephisto to spare Nahantu, before sending the Wanderer into Hell to confront Mephisto's wolf-form, the Harbinger of Hatred. Akarat sacrifices his immortal soul to empower the Wanderer enough to destroy the Harbinger. Returning to Nahantu, the Wanderer confronts Eru, who expects to be killed for his betrayal, but Neyrelle elects to spare him. In Travincal, Mephisto takes possession of Akarat's body, preparing for the conflict to come.
+
+Development
+Vessel of Hatred is being developed by Blizzard Team 3, the same group responsible for the base game. Development began shortly after the release of Diablo IV, with a focus on addressing player feedback and introducing substantial new content.[13] Blizzard Entertainment previously stated that the company plans to release a new expansion for the game every year.[14] A key goal for the development team was to create a new playable class that offered a distinct playstyle and fit seamlessly into the world of Sanctuary. The Spiritborn class was conceived as a result of this process, with abilities that complement the existing classes while providing fresh challenges and opportunities.[15][16]
+
+The creation of the Nahantu region presented a new set of challenges for the development team. To achieve the desired atmosphere of a dense, overgrown jungle, the team utilized advanced environmental art techniques and procedural generation to create a visually stunning and immersive environment. The region's flora and fauna were carefully designed to reflect the corrupting influence of Hatred. Balancing the expansion's difficulty was another critical aspect of development.[17]
+
+The team aimed to create challenging content that would appeal to both veteran players and those new to the series. To achieve this, they introduced a variety of difficulty levels for the new endgame dungeon and carefully tuned the power level of the new enemies and bosses. Throughout the development process, the team maintained close communication with the Diablo IV community. Player feedback was carefully considered when making design decisions, ensuring that the expansion would meet the expectations of the player base.[18]
+
+Marketing and release
+Diablo IV: Vessel of Hatred was announced at BlizzCon 2023 on November 3, 2023.[19] The game later released a CGI trailer, and Blizzard Entertainment announced the release date for the game at the Xbox Games Showcase on June 9, 2024. Vessel of Hatred was released on October 8, 2024, for the PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, and Windows.[20]
+
+Reception
+Reception
+Aggregate scores
+Aggregator	Score
+Metacritic	(PC) 85/100[21]
+(PS5) 85/100[22]
+(XSXS) 80/100[23]
+OpenCritic	92%[24]
+Review scores
+Publication	Score
+Destructoid	9/10[25]
+GameSpot	8/10[26]
+GamesRadar+	4/5[27]
+Hardcore Gamer	4.5/5[28]
+IGN	8/10[29]
+PC Gamer (US)	90/100[30]
+PCGamesN	9/10[31]
+Diablo IV: Vessel of Hatred received "generally favorable" reviews from critics, according to review aggregator Metacritic,[21][22][23] and 92% of critics recommended the game, according to OpenCritic.[24]
+
+Travis Northup from IGN praised the expansion for its engaging gameplay and quality-of-life improvements. He highlighted the new character class and changes to the leveling and loot systems as particularly well-received. However, Travis noted that the campaign feels truncated and leaves players with another cliffhanger. Despite this, Travis found the lore, characters, and plot developments compelling, though limited in number.[32] Tyler Colp from PC Gamer emphasized that the expansion transforms Diablo IV into one of the best action RPGs of the last decade. Tyler appreciated the compelling characters, creative loot, and expressive action. Tyler also mentioned that the campaign is shorter but dense with meaningful scenes where characters reflect, mourn, argue.[33] The review from COGconnected highlighted the new region, Nahantu, and its cooperative dungeon as significant additions that enhance the game's depth and appeal. The reviewer noted that if players already enjoy the game's combat, the expansion will further extend the base game's appeal.[34]
