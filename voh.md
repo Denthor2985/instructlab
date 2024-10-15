@@ -36,23 +36,4 @@ The team aimed to create challenging content that would appeal to both veteran p
 Marketing and release
 Diablo IV: Vessel of Hatred was announced at BlizzCon 2023 on November 3, 2023.[19] The game later released a CGI trailer, and Blizzard Entertainment announced the release date for the game at the Xbox Games Showcase on June 9, 2024. Vessel of Hatred was released on October 8, 2024, for the PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, and Windows.[20]
 
-Reception
-Reception
-Aggregate scores
-Aggregator	Score
-Metacritic	(PC) 85/100[21]
-(PS5) 85/100[22]
-(XSXS) 80/100[23]
-OpenCritic	92%[24]
-Review scores
-Publication	Score
-Destructoid	9/10[25]
-GameSpot	8/10[26]
-GamesRadar+	4/5[27]
-Hardcore Gamer	4.5/5[28]
-IGN	8/10[29]
-PC Gamer (US)	90/100[30]
-PCGamesN	9/10[31]
-Diablo IV: Vessel of Hatred received "generally favorable" reviews from critics, according to review aggregator Metacritic,[21][22][23] and 92% of critics recommended the game, according to OpenCritic.[24]
-
 Travis Northup from IGN praised the expansion for its engaging gameplay and quality-of-life improvements. He highlighted the new character class and changes to the leveling and loot systems as particularly well-received. However, Travis noted that the campaign feels truncated and leaves players with another cliffhanger. Despite this, Travis found the lore, characters, and plot developments compelling, though limited in number.[32] Tyler Colp from PC Gamer emphasized that the expansion transforms Diablo IV into one of the best action RPGs of the last decade. Tyler appreciated the compelling characters, creative loot, and expressive action. Tyler also mentioned that the campaign is shorter but dense with meaningful scenes where characters reflect, mourn, argue.[33] The review from COGconnected highlighted the new region, Nahantu, and its cooperative dungeon as significant additions that enhance the game's depth and appeal. The reviewer noted that if players already enjoy the game's combat, the expansion will further extend the base game's appeal.[34]
