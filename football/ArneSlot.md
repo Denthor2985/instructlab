@@ -1,6 +1,6 @@
 Arne Slot
 
-Arend Martijn "Arne" Slot (born 17 September 1978) is a Dutch professional football manager and former player who is the head coach of Premier League club Liverpool. He is regarded as one of the best managers in the world.[2][3][4][5]
+Arend Martijn "Arne" Slot (born 17 September 1978) is a Dutch professional football manager and former player who is the head coach of Premier League club Liverpool. He is regarded as one of the best managers in the world.
 
 Slot played as a midfielder for FC Zwolle, where he won the Eerste Divisie in 2002, NAC Breda and Sparta Rotterdam before retiring as a player back at PEC Zwolle, where he won another Eerste Divisie title in 2012.
 
